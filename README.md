@@ -5,7 +5,7 @@ The **tvOS Developers Slack** (http://tvos-developers.github.io) should be a saf
 - gender, gender identity or gender expression 
 - sexual orientation
 - disability
-- physical appearance (including but not limited to body size)
+- physical appearance
 - race
 - age
 - religion
