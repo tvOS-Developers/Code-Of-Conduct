@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **tvOS Developers Slack** should be a safe place for everybody regardless of
+The **tvOS Developers Slack** (http://tvos-developers.github.io) should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
